@@ -16,7 +16,8 @@
   - [Questions](#questions)
 
   ## Installation
-  `npm init` 	`npm install inquirer`
+    npm init
+    npm install inquirer
 
   ## Usage
   Our projects goal is to make an easy template readme generator thats looks nice and clean but with a professional touch
