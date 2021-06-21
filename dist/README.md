@@ -35,9 +35,9 @@
   this whole readme is our test
 
   ## Questions
-  U can always open a github issues prompt from our github repo<br />
+  U can always open a github issues prompt from our github repo <br />
   <br />
-  :octocat: Find me on GitHub: [Teku-Guy](https://github.com/Teku-Guy)<br />
+  :octocat: Find me on GitHub: [Teku-Guy](https://github.com/Teku-Guy) <br />
   <br />
   Email me with any questions: gusmuratalla@gmail.com<br /><br />
 

@@ -19,7 +19,8 @@
   `npm init` 	`npm install inquirer`
 
   ## Usage
-  Our projects goal is to make an easy template readme generator thats looks nice and clean but with a professional touch
+  Our projects goal is to make an easy template readme generator thats looks nice and clean but with a professional touch.
+  Here is an example [video](https://drive.google.com/file/d/1cPfF1twJzQQSYSBk7iKVTTSuXzVLOVEF/view)
 
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
@@ -31,7 +32,7 @@
   Gustavo Muratalla
 
   ## Tests
-  this whole readme is our test
+  this whole readme is our test. See our sample video [here](https://drive.google.com/file/d/1cPfF1twJzQQSYSBk7iKVTTSuXzVLOVEF/view)
 
   ## Questions
   U can always open a github issues prompt from our github repo<br />
