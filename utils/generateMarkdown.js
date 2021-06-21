@@ -39,7 +39,7 @@ function generateMarkdown(data) {
   ${renderLicenseBadge(data.license)}<br />
 
   ## Description
-  🔍 ${data.description}
+  ${data.description}
 
   ## Table of Contents
   - [Description](#description)
@@ -51,26 +51,26 @@ function generateMarkdown(data) {
   - [Questions](#questions)
 
   ## Installation
-  💾 ${data.installation}
+  ${data.installation}
 
   ## Usage
-  💻 ${data.usage}
+  ${data.usage}
 
   ## License
   ${renderLicenseSection(data.license)}
 
   ## Contributing
-  👪 ${data.contributing}
+  ${data.contributing}
 
   ## Tests
-  ✏️ ${data.tests}
+  ${data.tests}
 
   ## Questions
-  ✋ ${data.questions}<br />
+  ${data.questions}<br />
   <br />
   :octocat: Find me on GitHub: [${data.username}](https://github.com/${data.username})<br />
   <br />
-  ✉️ Email me with any questions: ${data.email}<br /><br />
+  Email me with any questions: ${data.email}<br /><br />
 
   `;
 }

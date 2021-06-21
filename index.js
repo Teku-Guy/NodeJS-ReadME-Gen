@@ -2,7 +2,6 @@
 const fs = require("fs");
 const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
-const generateReadme = require("./utils/generateMarkdown")
 
 // TODO: Create an array of questions for user input
 const questions = [
@@ -83,20 +82,16 @@ function writeToFile(fileName, data) {
     });
 };
 
-function promptUser(){
+// TODO: Create a function to initialize app
+function init() {
     return inquirer.prompt(questions);
 }
 
-// TODO: Create a function to initialize app
-function init() {
-   promptUser()
-    .then(responseData => {
-        return generateMarkdown(responseData);
-    })
-    .then(generateReadme => {
-        writeToFile('./dist/README.md', generateReadme);
-    });
-}
-
 // Function call to initialize app
-init();
+init()
+ .then(responseData => {
+    return generateMarkdown(responseData);
+ })
+ .then(generateReadme => {
+    writeToFile('./dist/README.md', generateReadme);
+ });

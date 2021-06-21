@@ -16,7 +16,7 @@
   - [Questions](#questions)
 
   ## Installation
-  💾 lsajg
+   lsajg
 
   ## Usage
   💻 ;lgjka
