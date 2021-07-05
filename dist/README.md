@@ -1,10 +1,10 @@
 
-  # NodeJS Readme Generator
+  # Note Takr
 
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
   ## Description
-  using node and javascript we will be creating a easy but professional looking readme template for future projects to come!
+  Using ExpressJs we create an api, a server, and all the backend code we need to make our front end project work
 
   ## Table of Contents
   - [Description](#description)
@@ -16,28 +16,29 @@
   - [Questions](#questions)
 
   ## Installation
-    npm init
-    npm install inquirer
+  Just simply run:
+  
+    npm install
 
   ## Usage
-  Our projects goal is to make an easy template readme generator thats looks nice and clean but with a professional touch
+  This project's goal was to learn and expand my skills even further with expressJs while also gainning an understanding on how backend servers work
 
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
-    <br />
-    This application is covered by the MIT license. 
+  <br />
+  This application is covered by the MIT license. 
     
 
   ## Contributing
   Gustavo Muratalla
 
   ## Tests
-  this whole readme is our test
+  you can check out the live deployed site [here](https://gorgeous-mammoth-cave-97047.herokuapp.com/)
 
   ## Questions
-  U can always open a github issues prompt from our github repo <br />
+  U can always feel free to open up a git issues request or reach out to me via my email below <br />
   <br />
-  :octocat: Find me on GitHub: [Teku-Guy](https://github.com/Teku-Guy) <br />
+  :octocat: Find me on GitHub: [Teku-Guy](https://github.com/Teku-Guy)<br />
   <br />
   Email me with any questions: gusmuratalla@gmail.com<br /><br />
 
